@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/2180/B
+
 def solve():
     no_str = int(input())
     str_input = list(input().split())
