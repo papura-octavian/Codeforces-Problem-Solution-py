@@ -41,4 +41,5 @@ def main():
     for _ in range(test_cases):
         solve()
 
-main()
+if __name__ == "__main__":
+    main()
