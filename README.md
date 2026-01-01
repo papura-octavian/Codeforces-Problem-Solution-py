@@ -1,5 +1,6 @@
 # Codeforces-Problem-Solution-By-Papura-Octavian
-Codeforces Solutions Py
+Py Solutions using PyCharm
 
 # Codeforces Profile
     https://codeforces.com/profile/satafacap-
+    https://leetcode.com/u/Thavian/
